@@ -1,0 +1,4 @@
+#ignore directory named out
+out/
+.idea/
+__pycache__/
